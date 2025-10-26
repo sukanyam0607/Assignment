@@ -1,2 +1,2 @@
 # Assignment
-Programming based on C++
+Programming based on C
